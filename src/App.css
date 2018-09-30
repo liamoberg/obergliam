@@ -1,0 +1,24 @@
+html {
+  font-size: 10px; }
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans Condensed", sans-serif; }
+
+.Main {
+  width: 100vw;
+  height: 100vh;
+  background-color: #11151C;
+  position: relative; }
+  .Main h1 {
+    font-size: 12rem;
+    font-weight: 700;
+    letter-spacing: -7px;
+    color: #FFF;
+    opacity: .7;
+    margin: 0;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-transform: lowercase; }
