@@ -1,0 +1,13 @@
+.Test {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .Test .Tilt {
+    height: 750px;
+    width: 500px;
+    background-image: url("../../Images/Front.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; }
